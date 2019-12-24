@@ -1,0 +1,11 @@
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\bin\Debug\netcoreapp2.0\test191218.deps.json
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\bin\Debug\netcoreapp2.0\test191218.runtimeconfig.json
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\bin\Debug\netcoreapp2.0\test191218.runtimeconfig.dev.json
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\bin\Debug\netcoreapp2.0\test191218.dll
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.csprojAssemblyReference.cache
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.csproj.CoreCompileInputs.cache
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.AssemblyInfoInputs.cache
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.AssemblyInfo.cs
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\bin\Debug\netcoreapp2.0\test191218.pdb
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.dll
+C:\Users\yhxkitest-DEV\source\repos\test191218\test191218\obj\Debug\netcoreapp2.0\test191218.pdb

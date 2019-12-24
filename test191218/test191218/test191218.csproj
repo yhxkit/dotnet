@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20191223004457_FirstMig.cs" />
+    <Compile Remove="Migrations\20191223004457_FirstMig.Designer.cs" />
+    <Compile Remove="Migrations\20191223010525_SecondMig.cs" />
+    <Compile Remove="Migrations\20191223010525_SecondMig.Designer.cs" />
+    <Compile Remove="Migrations\20191223012538_SecondMigr.cs" />
+    <Compile Remove="Migrations\20191223012538_SecondMigr.Designer.cs" />
+    <Compile Remove="Migrations\20191223013040_SecondMig.cs" />
+    <Compile Remove="Migrations\20191223013040_SecondMig.Designer.cs" />
+    <Compile Remove="Migrations\20191223013142_SecondMig.cs" />
+    <Compile Remove="Migrations\20191223013142_SecondMig.Designer.cs" />
+    <Compile Remove="Migrations\20191223013225_test01.cs" />
+    <Compile Remove="Migrations\20191223013225_test01.Designer.cs" />
+    <Compile Remove="Migrations\20191223013413_Test001.cs" />
+    <Compile Remove="Migrations\20191223013413_Test001.Designer.cs" />
+    <Compile Remove="Migrations\20191223021228_Test01.cs" />
+    <Compile Remove="Migrations\20191223021228_Test01.Designer.cs" />
+    <Compile Remove="Migrations\20191223021455_Test01.cs" />
+    <Compile Remove="Migrations\20191223021455_Test01.Designer.cs" />
+    <Compile Remove="Migrations\20191223021751_Test01.cs" />
+    <Compile Remove="Migrations\20191223021751_Test01.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="entityframework" Version="6.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.4" />
+    <PackageReference Include="mysql.data" Version="6.10.6" />
+    <PackageReference Include="mysql.data.entities" Version="6.8.3" />
+    <PackageReference Include="mysql.data.entity" Version="6.10.6" />
+    <PackageReference Include="mysql.data.entityframeworkcore" Version="6.10.6" />
+    <PackageReference Include="pomelo.entityframeworkcore.mysql" Version="2.0.1" />
+    <PackageReference Include="trumbowyg" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\upload\" />
+  </ItemGroup>
+
+</Project>
